@@ -1,1 +1,2 @@
-plik c
+plik c.txt
+tutaj też coś zmienię, żeby nie było, że nic nie zmieniłem

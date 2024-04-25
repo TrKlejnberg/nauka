@@ -8,3 +8,6 @@ Windows: <https://git-scm.com//download/win>
 - `git commit`
 - `git init`
 - `git status`
+
+
+dodano zmiany na masterze

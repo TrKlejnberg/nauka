@@ -1,6 +1,7 @@
 # Szkolenie z gita
 
 - godzina 13:47
+- data: 2024-04-25
 
 ## Instalacja
 Windows: <https://git-scm.com//download/win>

@@ -3,6 +3,8 @@
 - godzina 13:47
 - data: 2024-04-25
 
+jestesmy po obiedzie
+
 ## Instalacja
 Windows: <https://git-scm.com//download/win>
 

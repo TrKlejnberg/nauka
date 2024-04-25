@@ -1,5 +1,7 @@
 # Szkolenie z gita
 
+- godzina 13:47
+
 ## Instalacja
 Windows: <https://git-scm.com//download/win>
 
